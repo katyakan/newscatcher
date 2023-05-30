@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-
+import ShowNews from './ShowNews';
 function Search() {
   const [searchQuery, setSearchQuery] = useState('');
   const [articles, setArticles] = useState([]);
@@ -70,6 +70,7 @@ function Search() {
           </li>
         ))}
       </ul>
+      <ShowNews />
     </div>
   );
 }

@@ -42,7 +42,7 @@ function ShowNews() {
 
   return (
     <div>
-      <h1>Поиск новостей</h1>
+      <h1>Последние новости</h1>
 
       <ul>
         {articles.map((article, index) => (

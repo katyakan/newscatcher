@@ -4,7 +4,7 @@
 
 
 ### DEMO :arrow_heading_down::
- [Click me!](https://neobis-front-themeal.vercel.app/)
+ [Click me!](https://newscatcher.vercel.app/)
 
 
 ## Built on HTML, CSS, React, React Router, Axious :hammer: 
